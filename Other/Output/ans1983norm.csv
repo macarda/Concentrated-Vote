@@ -1,0 +1,651 @@
+"Ecology","Official.Unionist.Party","Ulster.Popular.Unionist","Democratic.Unionist.Party","Alliance","SDLP","Workers.Party","Sinn.Fein","Ind8","Constituency","CV","FPTP","Labour","Alliance..Lib.","Conservative","Plaid.Cymru","Alliance..SDP.","SNP","BNP","National.Front","Communist","Ind.Conservative","Ind.Labour","Ind.Liberal","Speaker"
+0,0,0,100,0,0,0,0,0,"Antrim East","Democratic.Unionist.Party","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,100,0,0,0,0,0,0,0,"Antrim South","Official.Unionist.Party","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+1.02093944538763,0,0,98.9790605546124,0,0,0,0,0,"Antrim North","Democratic.Unionist.Party","Democratic.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,100,0,0,0,0,0,"Belfast East","Democratic.Unionist.Party","Democratic.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,36.0656857874813,0,0,30.8847635678504,0,33.0495506446683,0,0,"Belfast North","Official.Unionist.Party","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,100,0,0,0,0,"Belfast South","Alliance","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,76.7254203669477,23.2745796330523,"Belfast West","Sinn.Fein","Sinn.Fein",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,29.7038836444144,70.2961163555856,0,0,0,0,0,0,"Down North","Ulster.Popular.Unionist","Ulster.Popular.Unionist",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,99.9999999999999,0,0,0,"Down South","SDLP","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,16.6662859725479,0,0,0,0,0,83.333714027452,0,"Fermanagh & South Tyrone","Sinn.Fein","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,100,0,0,0,"Foyle","SDLP","SDLP",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,100,0,0,0,0,0,0,0,"Lagan Valley","Official.Unionist.Party","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,100,0,0,0,0,0,0,0,"Londonderry East","Official.Unionist.Party","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,15.6208536258007,0,0,0,84.3791463741993,0,0,0,"Newry & Armagh","SDLP","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,100,0,0,0,0,0,0,0,"Strangford","Official.Unionist.Party","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,53.1780542258707,0,0,0,46.8219457741292,0,"Ulster Mid","Democratic.Unionist.Party","Democratic.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,100,0,0,0,0,0,0,0,"Upper Bann","Official.Unionist.Party","Official.Unionist.Party",0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Aberavon","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Aberdeen North","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Aberdeen South","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Aldershot","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Aldridge-Brownhills","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Altrincham & Sale","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Alyn & Deeside","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Amber Valley","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Angus East","SNP","Conservative",0,0,0,0,0,100,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Argyll & Bute","SNP","Conservative",0,0,0,0,0,100,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Arundel","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ashfield","Alliance..Lib.","Labour",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ashford","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ashton-under-Lyne","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Aylesbury","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ayr","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Banbury","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Banff & Buchan","SNP","Conservative",0,0,0,0,0,100,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Barking","Alliance..Lib.","Labour",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Barnsley Central","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Barnsley East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Barnsley West & Penistone","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Barrow and Furness","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Basildon","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Basingstoke","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bassetlaw","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bath","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Batley & Spen","Labour","Conservative",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Battersea","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Beaconsfield","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Beckenham","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bedfordshire Mid","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bedfordshire North","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bedfordshire South West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Berkshire East","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Berwick-upon-Tweed","Alliance..Lib.","Alliance..Lib.",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bethnall Green & Stepney","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Beverley","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bexhill & Battle","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bexleyheath","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Billericay","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birkenhead","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Edgbaston","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Erdington","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Hall Green","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Hodge Hill","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Ladywood","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Northfield","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Perry Barr","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Selly Oak","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Small Heath","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Sparkbrook","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Birmingham Yardley","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bishop Aukland","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Blaby","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Blackburn","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Blackpool North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Blackpool South","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Blaenau Gwent","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Blaydon","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Blyth Valley","Alliance..SDP.","Labour",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bolsover","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bolton North East","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bolton South East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bolton West","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Boothferry","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bootle","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bosworth","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bournemouth East","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bournemouth West","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bow & Poplar","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bradford North","Alliance..SDP.","Conservative",0,0,0,0,55.9439733342853,0,0,0,0,0,44.0560266657146,0,0
+0,0,0,0,0,0,0,0,0,"Bradford South","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bradford West","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Braintree","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Brecon & Radnor","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Brent East","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Brent North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Brent South","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Brentford & Isleworth","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Brentwood & Ongar","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bridgend","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bridgwater","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bridlington","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Brigg & Cleethorpes","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Brighton Kemptown","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Brighton Pavilion","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bristol East","Alliance..Lib.","Conservative",0,100.000000000001,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bristol North West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bristol South","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bristol West","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bromsgrove","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Broxbourne","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Broxtowe","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Buckingham","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Burnley","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Burton","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bury North","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bury South","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Bury St Edmunds","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Caernarfon","Plaid.Cymru","Plaid.Cymru",0,0,0,100,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Caerphilly","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Caithness & Sutherland","Alliance..SDP.","Alliance..SDP.",0,0,0,0,99.9999999999997,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Calder Valley","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cambridge","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cambridgeshire North East","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cambridgeshire South East","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cambridgeshire South West","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cannock & Burtwood","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Canterbury","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cardiff Central","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cardiff North","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cardiff South & Penarth","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cardiff West","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Carlisle","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+56.9690908305552,0,0,0,0,0,0,0,0,"Carmarthen","Ecology","Labour",0,0,0,11.0184875342436,0,0,32.0124216352012,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Carrick Cumnock & Doon Valley","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Carshalton & Wallington","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Castle Point","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ceredigion & Pembroke North","Alliance..Lib.","Alliance..Lib.",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cheadle","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chelmsford","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chelsea","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cheltenham","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chertsey & Walton","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chesham & Amersham","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chester","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chesterfield","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chichester","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chingford","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chipping Barnet","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chislehurst","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Chorley","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Christchurch","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cirencester & Tewkesbury","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"City of London & Westminster South","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Clackmannan","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Clwyd North West","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Clwyd South West","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Clydebank & Milngavie","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Clydesdale","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Colchester North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Colchester South & Maldon","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Colne Valley","Alliance..Lib.","Alliance..Lib.",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Congleton","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Conwy","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Copeland","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Corby","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cornwall North","Alliance..Lib.","Conservative",0,99.9999999999998,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cornwall South East","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Coventry North East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Coventry North West","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Coventry South East","Alliance..Lib.","Labour",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Coventry South West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Crawley","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Crewe & Nantwich","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Crosby","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Croydon Central","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Croydon North East","Speaker","Speaker",0,0,0,0,47.4864546525324,0,0,0,0,0,0,0,52.5135453474676
+0,0,0,0,0,0,0,0,0,"Croydon North West","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Croydon South","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cumbernauld & Kilsyth","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cunninghame North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cunninghame South","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Cynon Valley","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dagenham","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Darlington","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dartford","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Daventry","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Davyhulme","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Delyn","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Denton & Reddish","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Derby North","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Derby South","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Derbyshire North East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Derbyshire South","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Derbyshire West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Devizes","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Devon North","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Devon West & Torridge","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dewsbury","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Doncaster Central","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Doncaster North","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Don Valley","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dorset North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dorset South","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dorset West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dover","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dudley East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dudley West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dulwich","National.Front","Conservative",0,0,0,0,33.7952562527558,0,0,66.2047437472444,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dumbarton","Alliance..SDP.","Labour",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dumfries","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dundee East","SNP","SNP",0,0,0,0,0,100,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dundee West","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dunfermline East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Dunfermline West","Alliance..SDP.","Labour",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Durham","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Durham North","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Durham North West","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ealing Acton","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ealing North","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ealing Southall","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Easington","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Eastbourne","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"East Kilbride","Alliance..SDP.","Labour",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Eastleigh","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"East Lothian","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Eastwood","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Eccles","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Eddisbury","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Edinburgh Central","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Edinburgh East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Edinburgh Leith","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Edinburgh Pentlands","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Edinburgh South","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Edinburgh West","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Edmonton","Labour","Conservative",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ellesmere Port & Neston","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Elmet","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Eltham","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Enfield North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Enfield Southgate","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Epping Forest","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Epsom & Ewell","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Erewash","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Erith & Crayford","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Esher","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Exeter","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Falkirk East","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Falkirk West","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Falmouth & Camborne","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Fareham","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Faversham","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Feltham & Heston","Labour","Conservative",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Fife Central","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Fife North East","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Finchley","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Folkestone & Hythe","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Fulham","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Fylde","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Gainsborough & Horncastle","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Galloway & Upper Nithsdale","SNP","Conservative",0,0,0,0,0,100,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Gateshead East","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Gedling","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Gillingham","Conservative","Conservative",0,4.97562533186683,95.0243746681333,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glanford & Scunthorpe","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Cathcart","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Central","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Garscadden","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Govan","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Hillhead","Alliance..SDP.","Alliance..SDP.",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Maryhill","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Pollok","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Provan","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Rutherglen","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Shettleston","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Glasgow Springburn","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Gloucester","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Gloucestershire West","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Gordon","Alliance..Lib.","Alliance..Lib.",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Gosport","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Gower","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Grantham","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Gravesham","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Great Grimsby","Alliance..SDP.","Labour",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Great Yarmouth","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Greenock & Port Glasgow","Alliance..Lib.","Labour",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Greenwich","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Guildford","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hackney North & Stoke Newington","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hackney South & Shoreditch","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Halesowen & Stourbridge","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Halifax","Labour","Conservative",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Halton","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hamilton","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hammersmith","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hampshire East","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hampshire North West","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hampstead & Highgate","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Harborough","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Harlow","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Harrogate","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Harrow East","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Harrow West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hartlepool","Labour","Labour",99.9999999999997,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Harwich","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hastings & Rye","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Havant","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hayes & Harlington","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hazel Grove","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hemsworth","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hendon North","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hendon South","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Henley","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hereford","Alliance..Lib.","Conservative",0,99.9999999999998,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hertford & Stortford","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hertfordshire North","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hertfordshire South West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hertfordshire West","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hertsmere","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hexham","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Heywood & Middleton","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"High Peak","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Holborn & St Pancras South","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Holland with Boston","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Honiton","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hornchurch","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+52.888269426532,0,0,0,0,0,0,0,0,"Hornsey & Wood Green","Ecology","Conservative",0,0,47.1117305734682,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Horsham","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Houghton & Washington","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hove","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Huddersfield","Alliance..Lib.","Labour",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hull East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hull North","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hull West","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Huntingdon","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Hyndburn","Labour","Conservative",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ilford North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ilford South","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Inverness Nairn & Lochaber","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ipswich","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Isle of Wight","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Islington North","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Islington South & Finsbury","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Islwyn","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Jarrow","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Keighley","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Kensington","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Kent Mid","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Kettering","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Kilmarnock & Loudon","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Kincardine & Deeside","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Kingston upon Thames","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Kingswood","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Kirkaldy","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Knowsley North","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Knowsley South","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Lancashire West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Lancaster","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Langbaurgh","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leeds Central","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leeds East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leeds North East","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leeds North West","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leeds South & Morley","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leeds West","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leicester East","Labour","Conservative",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leicester South","Labour","Conservative",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leicester West","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leicestershire North West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leigh","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leominster","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Lewes","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Lewisham Deptford","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Lewisham East","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Lewisham West","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Leyton","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Lincoln","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Lindsey East","Alliance..Lib.","Conservative",0,99.9999999999998,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Linlithgow","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Littleborough & Saddleworth","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Liverpool Broadgreen","Labour","Labour",67.2789458250584,0,0,0,0,0,0,0,0,0,0,32.7210541749416,0
+0,0,0,0,0,0,0,0,0,"Liverpool Garston","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Liverpool Mossley Hill","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Liverpool Riverside","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Liverpool Walton","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Liverpool West Derby","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Livingston","Alliance..Lib.","Labour",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Llanelli","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Loughborough","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ludlow","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Luton North","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Luton South","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Macclesfield","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Maidstone","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Makerfield","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Manchester Blackley","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Manchester Central","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Manchester Gorton","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Manchester Withington","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Manchester Wythenshawe","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Mansfield","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Medway","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Meirionnydd Nant Conwy","Plaid.Cymru","Plaid.Cymru",0,0,0,99.9999999999999,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Meriden","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Merthyr Tydfil & Rhymney","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Middlesbrough","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Midlothian","Alliance..SDP.","Labour",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Milton Keynes","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Mitcham & Morden","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Mole Valley","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Monklands East","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Monklands West","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Monmouth","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Montgomery","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Moray","SNP","Conservative",0,0,0,0,0,100,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Morcambe & Lunesdale","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Motherwell North","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Motherwell South","Labour","Labour",99.9999999999997,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Neath","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Newark","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Newbury","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Newcastle-under-Lyme","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+1.20302824831567,0,0,0,0,0,0,0,0,"Newcastle upon Tyne Central","Alliance..SDP.","Conservative",0,0,0,0,98.7969717516843,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Newcastle upon Tyne East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Newcastle upon Tyne North","Alliance..Lib.","Labour",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"New Forest","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Newham North East","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Newham North West","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Newham South","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Newport East","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Newport West","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Norfolk Mid","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Norfolk North","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Norfolk North West","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Norfolk South","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Norfolk South West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Normanton","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Northampton North","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Northampton South","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Northavon","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Norwich North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Norwich South","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Norwood","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Nottingham East","Labour","Conservative",81.5791794703552,0,0,0,0,0,0,0,0,18.4208205296449,0,0,0
+0,0,0,0,0,0,0,0,0,"Nottingham North","Labour","Conservative",72.4256028646637,0,0,0,0,0,0,0,27.5743971353364,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Nottingham South","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Nuneaton","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ogmore","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Old Bexley & Sidcup","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Oldham Central & Royton","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Oldham West","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Orkney & Shetland","Alliance..Lib.","Alliance..Lib.",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Orpington","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Oxford East","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Oxfordshire West & Abingdon","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Paisley North","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Paisley South","Alliance..Lib.","Labour",14.7414570898013,85.2585429101988,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Peckham","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Pembroke","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Pendle","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Penrith & the Border","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Perth & Kinross","SNP","Conservative",0,0,0,0,0,100,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Peterborough","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Plymouth Devonport","Alliance..SDP.","Alliance..SDP.",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Plymouth Drake","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Plymouth Sutton","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Pontefract & Castleford","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Pontypridd","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Poole","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Portsmouth North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Portsmouth South","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Preston","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Pudsey","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Putney","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ravensbourne","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Reading East","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Reading West","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Redcar","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Reigate","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Renfrew West & Inverclyde","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Rhondda","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ribble Valley","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Richmond & Barnes","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Richmond (Yorks)","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Rochdale","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Rochford","Conservative","Conservative",0,0,99.9999999999996,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Romford","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Romsey & Waterside","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ross Cromarty & Skye","Alliance..SDP.","Alliance..SDP.",0,0,0,0,99.9999999999999,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Rossendale & Darwen","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Rotherham","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Rother Valley","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Roxburgh & Berwickshire","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Rugby & Kenilworth","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ruislip Northwood","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Rushcliffe","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Rutland & Melton","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Rydale","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Saffron Walden","Conservative","Conservative",0,0,99.9999999999996,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"St Albans","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"St Helens North","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"St Helens South","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"St Ives","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Salford East","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Salisbury","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Scarborough","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sedgefield","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Selby","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sevenoaks","Conservative","Conservative",0,0,99.9999999999997,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sheffield Attercliffe","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sheffield Brightside","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sheffield Central","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sheffield Hallam","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sheffield Heeley","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sheffield Hillsborough","Alliance..Lib.","Labour",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sherwood","Labour","Conservative",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Shipley","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Shoreham","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Shrewsbury & Atcham","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Shropshire North","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Skipton & Ripon","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Slough","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Solihull","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Somerton & Frome","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Southampton Itchen","Alliance..SDP.","Conservative",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Southampton Test","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Southend East","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Southend West","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"South Hams","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Southport","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"South Ribble","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"South Shields","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Southwark & Bermondsey","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Spelthorne","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stafford","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Staffordshire Mid","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Staffordshire Moorlands","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Staffordshire South","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Staffordshire South East","Conservative","Conservative",0,0,99.9999999999997,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stalybridge & Hyde","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stamford & Spalding","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stevenage","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stirling","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stockport","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stockton North","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stockton South","Alliance..SDP.","Alliance..SDP.",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stoke-on-Trent Central","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stoke-on-Trent North","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stoke-on-Trent South","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stratford-on-Avon","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Strathkelvin & Bearsden","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Streatham","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stretford","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Stroud","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Suffolk Central","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Suffolk Coastal","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Suffolk South","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sunderland North","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sunderland South","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Surbiton","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Surrey East","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Surrey North West","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Surrey South West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sussex Mid","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sutton & Cheam","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Sutton Coldfield","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Swansea East","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Swansea West","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Swindon","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Tatton","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Taunton","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Tayside North","SNP","Conservative",0,0,40.3035949503641,0,0,59.6964050496359,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Teignbridge","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Thanet North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Thanet South","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Thurrock","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Tiverton","Alliance..Lib.","Conservative",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Tonbridge & Malling","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Tooting","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Torbay","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Torfaen","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Tottenham","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Truro","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Tunbridge Wells","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Tweedale Ettrick & Lauderdale","Alliance..Lib.","Alliance..Lib.",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Twickenham","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Tyne Bridge","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Tynemouth","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Upminster","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Uxbridge","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Vale of Glamorgan","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Vauxhall","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wakefield","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wallasey","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wallsend","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Walsall North","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Walsall South","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Walthamstow","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wansbeck","Alliance..Lib.","Labour",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wansdyke","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wanstead & Woodford","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wantage","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Warley East","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Warley West","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Warrington North","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Warrington South","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Warwick & Leamington","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Warwickshire North","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Watford","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Waveney","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wealden","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wellingborough","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wells ","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Welwyn & Hatfield","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wentworth","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"West Bromwich East","Alliance..Lib.","Labour",0,99.9999999999999,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"West Bromwich West","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Westbury","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Western Isles","SNP","SNP",0,0,0,0,0,100,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Westminster North","Labour","Conservative",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Westmorland & Lonsdale","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Weston-super-Mare","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wigan","Labour","Labour",99.9999999999997,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wiltshire North","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wimbledon","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Winchester","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Windsor & Maidenhead","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wirral South","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wirral West","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Witney","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Woking","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wokingham","Conservative","Conservative",0,0,99.9999999999998,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wolverhampton North East","Labour","Labour",99.9999999999998,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wolverhampton South East","Labour","Labour",100,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wolverhampton South West","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Woodspring","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Woolwich","Alliance..SDP.","Alliance..SDP.",0,0,0,0,99.9999999999998,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Worcester","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Worcestershire Mid","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Worcestshire South","Alliance..Lib.","Conservative",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Workington","Labour","Labour",99.9999999999999,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Worsley","Alliance..SDP.","Labour",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Worthing","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"The Wrekin","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wrexham","Alliance..Lib.","Labour",0,99.9999999999998,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wycombe","Conservative","Conservative",0,0,100,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wyre","Conservative","Conservative",0,0,99.9999999999999,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Wyre Forest","Alliance..Lib.","Conservative",0,99.9999999999998,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Yeovil","Alliance..Lib.","Alliance..Lib.",0,100,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"Ynys Mon","Plaid.Cymru","Conservative",0,0,0,99.9999999999997,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,"York","Alliance..SDP.","Conservative",0,0,0,0,100,0,0,0,0,0,0,0,0
